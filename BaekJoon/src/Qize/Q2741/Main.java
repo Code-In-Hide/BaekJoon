@@ -3,7 +3,6 @@ package Qize.Q2741;
 import java.util.Scanner;
 
 public class Main {
-	//오타 수정
 	public static void main(String[] args) {
 		Scanner b = new Scanner(System.in);
 		int a = b.nextInt();
