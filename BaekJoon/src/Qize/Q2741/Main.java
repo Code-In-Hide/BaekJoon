@@ -7,8 +7,8 @@ public class Main {
 		Scanner b = new Scanner(System.in);
 		int a = b.nextInt();
 		int c = 0;
-		
-		for(int i=1; i <= a; i++) {
+
+		for (int i = 1; i <= a; i++) {
 			c = i;
 			System.out.println(c);
 		}
