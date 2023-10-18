@@ -9,7 +9,6 @@ public class Main {
 		int X = sc.nextInt();
 		int[] ar = new int[N];
 
-		while (true) {
 			for (int i = 0; i < ar.length; i++) {
 				ar[i] = sc.nextInt();
 				
@@ -19,8 +18,6 @@ public class Main {
 					continue;
 				}
 			}
-			break;
-		}
 		sc.close();
 	}
 }
